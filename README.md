@@ -1,4 +1,4 @@
-# Quickstart
+# BigQuery Chat with Ethereum
 
 ## Prerequisites
 
@@ -104,6 +104,6 @@ Grant the **Vertex AI User** role to the service account:
    python app.py
    ```
 
-   * Open http://127.0.0.1:7860
+   * Open http://127.0.0.1:7865
    * To expose a public link quickly: set share=True in launch()
    * To bind for containers/VMs: use server_name="0.0.0.0   
