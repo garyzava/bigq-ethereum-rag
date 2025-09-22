@@ -1,0 +1,5 @@
+This is a test document for multimodal queries.
+It contains information about Ethereum transactions.
+The latest transaction has hash 0x1234567890abcdef.
+Block number 12345678.
+Value: 1.5 ETH.
